@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sandeep (@sandeep21tw)
+- 👋 Hi, I’m Sandeep
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning about python
 - 💞️ I’m looking to collaborate on innovative technology projects
